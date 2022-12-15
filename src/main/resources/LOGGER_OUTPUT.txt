@@ -1,0 +1,5 @@
+com.solvd.WordsCounter.countWords(WordsCounter.java:31) 2022-12-15 22:02:14 - File error while words counting
+com.solvd.WordsCounter.countWords(WordsCounter.java:31) 2022-12-15 22:02:32 - File error while words counting
+com.solvd.WordsCounter.countWords(WordsCounter.java:31) 2022-12-15 22:02:48 - File error while words counting
+com.solvd.WordsCounter.countWords(WordsCounter.java:31) 2022-12-15 22:02:55 - File error while words counting
+com.solvd.WordsCounter.countWords(WordsCounter.java:31) 2022-12-15 22:03:25 - File error while words counting
